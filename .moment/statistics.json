@@ -1,4 +1,6 @@
-{"credits":{"blaiszik":2}}
-{"credits":{"ward":5}}
-{"credits":{"pruyne":10}}
-{"credits":{"james":10}}
+{"credits":{"user":"blaiszik","type":"data", "value":2}}
+{"credits":{"user":"ward","type":"ai", "value":4}}
+{"credits":{"user":"james","type":"data", "value":30}}
+{"credits":{"user":"foster","type":"infrastructure", "value":10}}
+{"credits":{"user":"decost","type":"ai", "value":10}}
+{"credits":{"user":"pruyne","type":"infrastructure", "value":20}}
